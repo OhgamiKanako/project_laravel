@@ -57,7 +57,7 @@
                 <div class="text">
                     <h1>Congratulations!</h1>
                     <h2>You just created a PHP Laravel web application</h2>
-                    <p>Welcomtoabis</p>
+                    <p>Welcom_to_ABYSS</p>
                 </div>
             </div>
         </div>
